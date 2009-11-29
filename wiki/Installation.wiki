@@ -1,5 +1,10 @@
 =Tiny Tiny RSS Reader for Android=
 
+  # [http://code.google.com/p/ttrss-reader/downloads/list Download] Tiny Tiny RSS Reader;
+  # Move the downloaded _.apk_ to your sdcard;
+  # Check your settings to allow application installation: go to _Settings_, _Applications_, and check _Unknown sources_;
+  # Open the _.apk_ file;
+
 =Set up Tiny Tiny RSS for xml-rpc=
 Tiny Tiny RSS need to be set up in order to provide xml-rpc support. Please follow those few steps:
 
