@@ -1,0 +1,13 @@
+=Tiny Tiny RSS Reader for Android=
+
+=Set up Tiny Tiny RSS for xml-rpc=
+Tiny Tiny RSS need to be set up in order to provide xml-rpc support. Please follow those few steps:
+
+  # Download [http://phpxmlrpc.sourceforge.net/ XML-RPC for PHP];
+  # Extract the _lib_ folder from the archive, and upload it to the _lib/xmlrpc/_ folder of your Tiny Tiny RSS instance;
+
+Additionally, _PHP_ must be set to not display notices and warnings. To do so:
+
+  # Open your _php.ini_ file;
+  # Look for the line starting by _error_reporting_;
+  # Change it by _error_reporting = E_ALL & ~E_NOTICE & ~E_WARNING_;
