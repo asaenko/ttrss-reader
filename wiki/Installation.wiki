@@ -6,6 +6,10 @@
   # Check your settings to allow application installation: go to _Settings_, _Applications_, and check _Unknown sources_;
   # Open the _.apk_ file;
 
+Alternatively, you can use the QR code below:
+
+http://img263.imageshack.us/img263/3686/qrttrssreader010.png
+
 =Set up Tiny Tiny RSS for xml-rpc=
 Tiny Tiny RSS need to be set up in order to provide xml-rpc support. Please follow those few steps:
 
