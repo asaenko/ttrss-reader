@@ -10,7 +10,16 @@ Alternatively, you can use the QR code below:
 
 http://i47.tinypic.com/jhfygl.png
 
-=Set up Tiny Tiny RSS for xml-rpc=
+=Set up Tiny Tiny RSS=
+
+Tiny Tiny RSS need to be set up to use its API. Please follow those few steps:
+
+  # Go to your Tiny Tiny RSS instance;
+  # Go to __Preferences__;
+  # In the __Advanced__ section, set __Enable external API__ to __yes__yes;
+  # Save the changes;
+
+=DEPRECATED: for ttrss-reader version < 0.2.0: Set up Tiny Tiny RSS for xml-rpc=
 Tiny Tiny RSS need to be set up in order to provide xml-rpc support. Please follow those few steps:
 
   # Download [http://phpxmlrpc.sourceforge.net/ XML-RPC for PHP];
