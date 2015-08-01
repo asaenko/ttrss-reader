@@ -1,0 +1,3 @@
+![http://img403.imageshack.us/img403/4481/device1.png](http://img403.imageshack.us/img403/4481/device1.png) ![http://img502.imageshack.us/img502/4407/device2j.png](http://img502.imageshack.us/img502/4407/device2j.png)
+
+![http://img502.imageshack.us/img502/1390/device3.png](http://img502.imageshack.us/img502/1390/device3.png) ![http://img502.imageshack.us/img502/1594/device4.png](http://img502.imageshack.us/img502/1594/device4.png)
